@@ -1,2 +1,2 @@
-def myprintFun(): # define function name  
+def myprintFun(): # function name defined  
     print(" We are inside function")  
