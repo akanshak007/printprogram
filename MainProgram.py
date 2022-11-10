@@ -1,2 +1,3 @@
 from printFun import myprintFun
-myprintFun() 
+x = input("Enter your number :")
+myprintFun(x)
